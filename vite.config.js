@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['react-router-dom', 'bootstrap']
+      external: ['react-router-dom']
     }
   }
 })
