@@ -1,0 +1,47 @@
+.bg-gt-t{
+    position: relative;
+}
+.bg-txt{
+    position: absolute;
+     top: 50%;
+left: 5%;
+transform: translateY(-50%);
+text-align: left;
+ color: white;
+}
+
+.bg-txt-1{
+    margin-top:5rem;
+    font-size:64px;
+    font-weight:700;
+}
+.bg-txt-2{
+    margin-top:4rem;
+    font-size:25px;
+    font-weight:400;
+}
+.techInfo{
+    height: 100vh;
+    margin: auto;
+    padding:2rem 3rem;
+    background-image: linear-gradient(to bottom, #261c4b, #332859, #413566, #4e4275, #5c4f83);
+}
+.txt-gt-tch{
+    border-radius: 10px;
+    padding: 2rem;
+    background-image: linear-gradient(to top, #261c4b, #332859, #413566, #4e4275, #5c4f83);
+    font-size:24px;
+}
+.img-sz-gt{
+    width:650px;
+    height:430px;
+    display:block;
+}
+.getinTouchButton{
+    background-color: rgb(71, 61, 104);
+    font-size: 25px;
+    margin-top: 50px;
+    border-bottom: 2px solid;
+    border-right: 2px solid;
+    border-radius: 15px;
+}
