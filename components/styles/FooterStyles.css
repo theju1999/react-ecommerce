@@ -1,0 +1,33 @@
+.bg-Ft{
+    background-color: #160E33!important;
+    /* padding:10px 20px; */
+color:white;
+text-align:center;
+padding:4rem;
+}
+ul{
+    display:block!important;
+}
+/* ul {
+ list-style-type: none;
+    margin: 0;
+    overflow: hidden;   
+  } */
+  
+  .li-ft {
+    float:unset;
+  }
+  
+  /* li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  } */
+  .txt-1{
+    font-size:20px;
+  }
+  p{
+    margin-top:unset;
+  }
